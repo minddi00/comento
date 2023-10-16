@@ -1,5 +1,13 @@
 # Compiled class file
-*.class
+#*.class
+
+#for mac
+*/.DS_Store
+.DS_Store
+
+#configuration file
+application.properties
+application.yml
 
 # Log file
 *.log
