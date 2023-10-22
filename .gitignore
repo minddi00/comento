@@ -1,3 +1,11 @@
+# IDE 설정 파일 및 폴더
+.settings/
+.idea/
+
+# 빌드된 파일 및 폴더
+bin/
+target/
+
 # Compiled class file
 #*.class
 
@@ -30,3 +38,4 @@ application.yml
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
